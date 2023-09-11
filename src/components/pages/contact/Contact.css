@@ -1,0 +1,60 @@
+.contactbackground {
+    width: 100%;
+    height: 100vh;
+    background-color: #4158d0;
+    background-image: linear-gradient(
+      43deg,
+      #4158d0 0%,
+      #c850c0 46%,
+      #ffcc70 100%
+    );
+    padding-top: 110px;
+  }
+  .contacthead {
+    padding-top: 3rem;
+    text-align: center;
+    font-size: 3.2rem;
+    font-weight: 800;
+    letter-spacing: 1px;
+  }
+  .contactpara {
+    padding-top: 1rem;
+    text-align: center;
+    font-size: 16px;
+    letter-spacing: 1px;
+    padding-bottom: 1rem;
+  }
+  .contactbtn {
+    display: block;
+    margin: 0 auto;
+    width: 150px;
+    height: 50px;
+    border: solid 2px;
+    background-color: transparent;
+    letter-spacing: 2px;
+  }
+  .contactbtn:hover {
+    background-color: rgba(51, 51, 51, 0.2);
+  }
+  .line {
+    margin-top: 11rem;
+  }
+  .copyright {
+    padding: 1px;
+    text-align: center;
+    font-size: 12px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  .copyright span{
+    font-weight: 700;
+    letter-spacing: 1px;
+  }
+  @media (max-width: 767px) {
+    .line {
+      margin-top: 8rem;
+    }
+    .contactpara br {
+      display: none;
+    }
+  }
+  

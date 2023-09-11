@@ -1,0 +1,23 @@
+{
+    "home.title": "Home",
+    "about.title": "About Me",
+    "contact.title": "Contact",
+    "language": "Language",
+    "language.english": "English",
+    "language.hindi": "Hindi",
+    "language.french": "French",
+    "home.content": "Welcome to the Home page!",
+    "about.content": "I'm a self-taught Front End developer from India. I build websites with a focus on providing the experience for everyone using them and responsiveness. Curious to learn more about developing scalable distribution systems, love problem solving, and care about writing and maintainable code. A responsive design makes your website accessible to all users, regardless of their devices.",
+    "contact.content": "I’m currently searching for opportunities for a front-end developer role.If there is any vacancy my inbox is always open. Whether you have any further questions or just want to say hi, I’ll try my best to get back to you!",
+    "contact.subtitle":"Get In Touch",
+    "contact.connect":"Say hello",
+    "footer":"Designed & Built by ",
+    "skills":"Skills",
+    "hello":"Hello",
+    "name":"Vansham Rathore",
+    "intro":"I'm Vansham Rathore",
+    "dev1":"React Js developer",
+    "dev2":"Frontend developer"
+    
+  }
+  

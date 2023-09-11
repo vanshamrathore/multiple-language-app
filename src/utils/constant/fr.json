@@ -1,0 +1,21 @@
+{
+    "home.title": "Accueil",
+    "about.title": "À Propos de Moi",
+    "contact.title": "Contact",
+    "language": "Langue",
+    "language.english": "Anglais",
+    "language.hindi": "Hindi",
+    "language.french": "Français",
+    "home.content": "Bienvenue sur la page d'accueil !",
+    "about.content": "Je suis un développeur Front-End autodidacte en provenance de l'Inde. Je crée des sites web en mettant l'accent sur l'expérience de tous les utilisateurs et la réactivité. Curieux d'en savoir plus sur le développement de systèmes de distribution évolutifs, j'aime résoudre des problèmes et attache de l'importance à l'écriture de code maintenable. Une conception réactive rend votre site accessible à tous les utilisateurs, quel que soit leur appareil.",
+    "contact.content": "Je suis actuellement à la recherche d'opportunités pour un poste de développeur Front-End. Si vous avez des postes vacants, ma boîte de réception est toujours ouverte. Que vous ayez d'autres questions ou que vous souhaitiez simplement dire bonjour, je ferai de mon mieux pour vous répondre !",
+    "contact.subtitle": "Entrer en Contact",
+    "contact.connect": "Dites bonjour",
+    "footer": "Conçu & Construit par ",
+    "skills": "Compétences",
+    "hello": "Bonjour",
+    "name": "Vansham Rathore",
+    "intro": "Je suis Vansham Rathore",
+    "dev1": "Développeur React Js",
+    "dev2": "Développeur Front-End"
+}
